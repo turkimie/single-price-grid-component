@@ -106,6 +106,7 @@ button {
 
     button:hover {
         box-shadow: 0 5px 10px hsla(217, 5%, 33%, 0.5);
+        cursor: pointer;
     }
 }
 
